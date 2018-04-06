@@ -1,4 +1,4 @@
-# cpp-MMORPG-server
+# MMORPG Server
 Server of basic MMORPG game made with learning purpose. Uses MySQL Connector to connect with database and SFML multimedia library.
 
 To config database connection, change one line in Source/Application.cpp
