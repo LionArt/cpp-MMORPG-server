@@ -1,4 +1,7 @@
 # MMORPG Server
+
+<a href="https://i.imgur.com/T4phSiO.gif"><img src="https://i.imgur.com/T4phSiO.gif" title="Treasuria"/></a>
+
 Server of basic MMORPG game made with learning purpose. Uses MySQL Connector to connect with database and SFML multimedia library.
 
 To config database connection, change one line in Source/Application.cpp
